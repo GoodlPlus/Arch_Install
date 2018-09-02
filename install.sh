@@ -1,1 +1,2 @@
-ls
+fdisk /dev/sda
+g
