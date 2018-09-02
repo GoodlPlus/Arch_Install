@@ -1,2 +1,2 @@
 fdisk /dev/sda
-g
+m
